@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(../img/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/*Login & Signup Css*/
+.background{
+}
+
+.box{
+    background-color: transparent;
+    width: 50% ;
+    padding: 50px;
+    margin: 100px auto;
+    box-shadow: 0px 2px 8px 2px #555;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 25px;
+}
+.box h1{
+    color: white;
+    text-align: center;
+}
+.box a{
+
+    text-decoration: none;
+}
+.inputclass {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0px;
+    display: inline-block;
+    box-sizing: border-box;
+    color: black;
+    background-color: whitesmoke;
+    border: 0px solid;
+    font-size: 15px;
+}
+#login{
+    width: 100%;
+    padding: 10px 12px;
+    margin: 8px 0px;
+    display: inline-block;
+    box-sizing: border-box;
+    color: white;
+    font-weight: bold;
+    background-color: dodgerblue;
+    border: 1px solid black;  
+}
+#login:hover {
+    cursor: pointer; 
+}
+#register{
+    width: 100%;
+    padding: 10px 12px;
+    margin: 8px 0px;
+    display: inline-block;
+    box-sizing: border-box;
+    color: white;
+    font-weight: bold;
+    background-color: #06AC26;
+    border: 1px solid black;  
+}
+#register:hover{
+    cursor: pointer;
+}
+/* Header Part */
+
+header{
+    
+}
+.logo{
+    
+}
+.menu{
+    padding: 15px 50px;
+}
+/* Footer Part */
+
+footer{
+    
+}
+
+/* SECTION */
+/*Section Part slide-image*/
+.about-poultry {
+    text-align: center;
+    padding: 5px 10px;
+}
+.move {
+    padding: 30px 0px;
+}
+
+
+/*About Us Section*/
+.about{
+    
+}
+.about-us{
+    padding: 45px 5px;
+}
+.about-title {
+    text-align: center;
+    padding: 35px;
+}
+.card-body{
+    text-align: center;
+}
+/*Table Section*/
+.table-info{
+    background-color: wheat;
+    
+}
